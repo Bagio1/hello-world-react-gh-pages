@@ -2,7 +2,7 @@
   "name": "hello-world-react-gh-pages",
   "private": true,
   "version": "0.1.0",
-  "homepage": "https://Bagio1.github.io/hello-world-react-gh-pages",
+  "homepage": "https://Bagio1.github.io/hello-world-react-gh-pages/",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
